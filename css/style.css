@@ -1,0 +1,14 @@
+#gameCanvas {
+    border: 1px solid black;
+    display: block; /* Prevents default inline behavior */
+    margin: 20px auto; /* Centers horizontally with top/bottom margin */
+}
+
+body {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Vertically center content */
+    min-height: 100vh;
+    margin: 0;
+}
